@@ -53,3 +53,4 @@ en:
     title: "Contact"
     content: "Contact the Ruby on Rails Tutorial about the sample app at the
               %{rails_contact}."
+              
